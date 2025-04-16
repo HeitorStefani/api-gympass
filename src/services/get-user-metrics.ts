@@ -1,4 +1,3 @@
-import { CheckIn } from '@prisma/client'
 import { ResourceNotFoundError } from './error/resource-not-found'
 import { CheckInsRepository } from '@/repositories/checkins-repository'
 

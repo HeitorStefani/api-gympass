@@ -1,0 +1,9 @@
+{
+  "name": "prisma-test-environment",
+  "version": "1.0.0",
+  "main": "prisma-tests-environment.ts",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

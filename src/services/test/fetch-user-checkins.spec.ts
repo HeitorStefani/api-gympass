@@ -25,8 +25,6 @@ describe('check-in Use Case', () => {
       page: 1,
     })
 
-    console.log(checkins)
-
     expect(checkins).toHaveLength(2)
     expect(checkins).toEqual([
       expect.objectContaining({ gym_id: 'gym-01' }),
